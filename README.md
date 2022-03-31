@@ -6,9 +6,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <!--
 **Oleg86rus/Oleg86rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

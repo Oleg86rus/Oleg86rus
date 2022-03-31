@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1>𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐎𝐥𝐞𝐠
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3>𝐑𝐞𝐬𝐮𝐥𝐭𝐒𝐜𝐡𝐨𝐨𝐥 𝐬𝐭𝐮𝐝𝐞𝐧𝐭, 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐑𝐮𝐬𝐬𝐢𝐚 🇷🇺</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 
 <!--
 **Oleg86rus/Oleg86rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

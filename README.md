@@ -4,6 +4,10 @@
 
 ### [Резюме](https://oleg86rus.github.io/Resume/)
 
+### [Хакатон](https://github.com/Oleg86rus/01-hackathon/)
+
+### [Учебный проект](https://github.com/Oleg86rus/fast-company/)
+
 ### ![](https://www.codewars.com/users/Oleg86rus/badges/large)
 
 

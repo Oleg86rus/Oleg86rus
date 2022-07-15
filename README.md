@@ -6,7 +6,9 @@
 
 ### [Резюме](https://oleg86rus.github.io/Resume/)
 
-### [Хакатон](https://github.com/Oleg86rus/01-hackathon/)
+### [Хакатон#1](https://github.com/Oleg86rus/01-hackathon/)
+
+### [Хакатон#2](https://github.com/Oleg86rus/hackathon2)
 
 ### [Учебный проект](https://github.com/Oleg86rus/fast-company/)
 

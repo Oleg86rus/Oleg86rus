@@ -10,7 +10,7 @@
 
 ### [Хакатон#2](https://github.com/Oleg86rus/hackathon2)
 
-### [Учебный проект](https://github.com/Oleg86rus/fast-company/)
+### [Учебный проект](https://github.com/Oleg86rus/fast-company/) / [Деплой](http://development-pov.ru/) 
 
 ---
 

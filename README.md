@@ -12,6 +12,7 @@
 
 ### [Учебный проект](https://github.com/Oleg86rus/fast-company/) / [Деплой](http://development-pov.ru/) 
 
+### [Сайт клиники превентивной медицины (в работе)](https://github.com/Oleg86rus/propreventa/) / [Деплой](http://http://176.119.147.53/) 
 ---
 
 ### 💻 Tech Stack:

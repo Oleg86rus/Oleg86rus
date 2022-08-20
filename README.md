@@ -4,7 +4,6 @@
 
 ---
 
-### [Резюме](https://oleg86rus.github.io/Resume/)
 
 ### [Хакатон#1](https://github.com/Oleg86rus/01-hackathon/)
 

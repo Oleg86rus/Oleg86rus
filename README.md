@@ -29,7 +29,7 @@
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-80BC02.svg?&style=for-the-badge&logo=node.js&logoColor=343434" />&nbsp;
 <img alt="docker" src="https://img.shields.io/badge/docker-2C96ED.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
-
+<img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-18B0B4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=fff" />&nbsp;
 
 
 ### 🛠 Tools:

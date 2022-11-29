@@ -1,6 +1,6 @@
 # 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐎𝐥𝐞𝐠 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### 𝐑𝐞𝐬𝐮𝐥𝐭𝐒𝐜𝐡𝐨𝐨𝐥 𝐬𝐭𝐮𝐝𝐞𝐧𝐭, 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐑𝐮𝐬𝐬𝐢𝐚 🇷🇺
+### 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐑𝐮𝐬𝐬𝐢𝐚 🇷🇺
 
 ---
 

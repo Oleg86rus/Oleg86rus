@@ -11,6 +11,8 @@
 
 ### [Учебный проект](https://github.com/Oleg86rus/fast-company/)
 
+### [Прототип Excel на Pure JS](https://github.com/Oleg86rus/excel)
+
 ### [Сайт клиники превентивной медицины (в работе)](https://github.com/Oleg86rus/propreventa/) / [Деплой (в работе)](http://176.119.147.53/) 
 ---
 

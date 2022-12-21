@@ -28,6 +28,8 @@
 <img alt="webpack" src="https://img.shields.io/badge/webpack-2C3A43.svg?&style=for-the-badge&logo=webpack&logoColor=55A7DE" />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/react-333333.svg?&style=for-the-badge&logo=react&logoColor=3DDAFD" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-303030.svg?&style=for-the-badge&logo=redux&logoColor=7647BF" />&nbsp;
+<img alt="vue" src="https://img.shields.io/badge/vue-333333.svg?&style=for-the-badge&logo=vue.js&logoColor=41B883" />&nbsp;
+
 
 <img alt="firebase" src="https://img.shields.io/badge/firebase-FBCB2B.svg?&style=for-the-badge&logo=firebase&logoColor=F7810B" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;

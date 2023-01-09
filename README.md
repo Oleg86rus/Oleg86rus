@@ -1,15 +1,16 @@
-# 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐎𝐥𝐞𝐠 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Доброго дня <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐑𝐮𝐬𝐬𝐢𝐚 🇷🇺
 
 ---
-
+### Мои проекты:
 
 ### [Хакатон#1](https://github.com/Oleg86rus/01-hackathon/)
 
 ### [Хакатон#2](https://github.com/Oleg86rus/hackathon2)
 
-### [Учебный проект](https://github.com/Oleg86rus/fast-company/)
+### [Учебный проект в Result School(портал встреч)](https://github.com/Oleg86rus/fast-company/)
+
+### [Учебный проект Vue.js](https://github.com/Oleg86rus/vue.js)
 
 ### [Прототип Excel на Pure JS](https://github.com/Oleg86rus/excel)
 
@@ -29,7 +30,8 @@
 <img alt="react" src="https://img.shields.io/badge/react-333333.svg?&style=for-the-badge&logo=react&logoColor=3DDAFD" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-303030.svg?&style=for-the-badge&logo=redux&logoColor=7647BF" />&nbsp;
 <img alt="vue" src="https://img.shields.io/badge/vue-333333.svg?&style=for-the-badge&logo=vue.js&logoColor=41B883" />&nbsp;
-
+<img alt="vuex" src="https://img.shields.io/badge/vuex-333333.svg?&style=for-the-badge&logo=vuex&logoColor=41B883" />&nbsp;
+<img alt="typescript" src="https://img.shields.io/badge/typescript-0D83CF.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 
 <img alt="firebase" src="https://img.shields.io/badge/firebase-FBCB2B.svg?&style=for-the-badge&logo=firebase&logoColor=F7810B" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;

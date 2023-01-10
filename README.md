@@ -1,6 +1,6 @@
-# Доброго дня <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Доброго дня, буду рад знакомству! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-
+👯 Открыт к сотрудничеству и совместным проектам
 ---
 ### Мои проекты:
 

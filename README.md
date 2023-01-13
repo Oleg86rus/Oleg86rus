@@ -12,7 +12,7 @@
 
 ### [Учебный проект Vue.js](https://github.com/Oleg86rus/vue.js)
 
-### [Список бизнес задач - прототип, функционал на уточнении (Vue.js)](https://github.com/Oleg86rus/vue.js) / [Деплой](https://vue-application-list.web.app/)
+### [Список бизнес задач - прототип, функционал на уточнении (Vue.js)](https://github.com/Oleg86rus/application_list_vue) / [Деплой](https://vue-application-list.web.app/)
 
 ### [Прототип Excel на Pure JS](https://github.com/Oleg86rus/excel)
 

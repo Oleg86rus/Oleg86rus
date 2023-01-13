@@ -12,6 +12,8 @@
 
 ### [Учебный проект Vue.js](https://github.com/Oleg86rus/vue.js)
 
+### [Список бизнес задач - прототип, функционал на уточнении (Vue.js)](https://github.com/Oleg86rus/vue.js) / [Деплой](https://vue-application-list.web.app/)
+
 ### [Прототип Excel на Pure JS](https://github.com/Oleg86rus/excel)
 
 ### [Сайт клиники превентивной медицины (проект на паузе)](https://github.com/Oleg86rus/propreventa/) / [Деплой](http://176.119.147.53/) 

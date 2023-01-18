@@ -33,6 +33,7 @@
 <img alt="redux" src="https://img.shields.io/badge/redux-303030.svg?&style=for-the-badge&logo=redux&logoColor=7647BF" />&nbsp;
 <img alt="vue" src="https://img.shields.io/badge/vue-333333.svg?&style=for-the-badge&logo=vue.js&logoColor=41B883" />&nbsp;
 <img alt="vuex" src="https://img.shields.io/badge/vuex-333333.svg?&style=for-the-badge&logo=vuex&logoColor=41B883" />&nbsp;
+<img alt="pinia" src="https://img.shields.io/badge/pinia-333333.svg?&style=for-the-badge&logo=pinia&logoColor=41B883" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-0D83CF.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 
 <img alt="firebase" src="https://img.shields.io/badge/firebase-FBCB2B.svg?&style=for-the-badge&logo=firebase&logoColor=F7810B" />&nbsp;

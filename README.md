@@ -38,7 +38,9 @@
 
 <img alt="firebase" src="https://img.shields.io/badge/firebase-FBCB2B.svg?&style=for-the-badge&logo=firebase&logoColor=F7810B" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
+<img alt="postgresql" src="https://img.shields.io/badge/postgresql-FBFBFB.svg?&style=for-the-badge&logo=postgresql&logoColor=04639C" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-80BC02.svg?&style=for-the-badge&logo=node.js&logoColor=343434" />&nbsp;
+<img alt="express" src="https://img.shields.io/badge/express-2A2A2A.svg?&style=for-the-badge&logo=express&logoColor=04639C" />&nbsp;
 <img alt="docker" src="https://img.shields.io/badge/docker-2C96ED.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
 
 

@@ -1,22 +1,28 @@
 # Доброго дня, буду рад знакомству! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 👯 Открыт к сотрудничеству и совместным проектам
+
 ---
 ### Мои проекты:
 
-### [Хакатон#1](https://github.com/Oleg86rus/01-hackathon/)
-
-### [Хакатон#2](https://github.com/Oleg86rus/hackathon2)
-
-### [Учебный проект в Result School(портал встреч)](https://github.com/Oleg86rus/fast-company/)
-
-### [Учебный проект Vue.js](https://github.com/Oleg86rus/vue.js)
-
-### [Список бизнес задач - прототип, функционал на уточнении (Vue.js)](https://github.com/Oleg86rus/application_list_vue) / [Деплой](https://vue-application-list.web.app/)
-
 ### [Прототип Excel на Pure JS](https://github.com/Oleg86rus/excel)
 
-### [Сайт клиники превентивной медицины (проект на паузе)](https://github.com/Oleg86rus/propreventa/) / [Деплой](http://176.119.147.53/) 
+### [Портал для быстрых встреч](https://github.com/Oleg86rus/fast-company/)
+
+### [Список бизнес заказов, прототип](https://github.com/Oleg86rus/application_list_vue) / [Деплой (Firebase)](https://vue-application-list.web.app/auth?message=auth)
+
+### [Сайт клиники превентивной медицины (заказ дорабатывается на стороне заказчика)](https://github.com/Oleg86rus/propreventa/) / [Деплой](http://propreventa.ru/) 
+
+### [Vue3 + Vuex + Composition](https://github.com/Oleg86rus/vue.js)
+---
+### В работе:
+
+### [Блог - форум](https://github.com/Oleg86rus/blog)
+
+
+
+### [Paint online (в работе)](https://github.com/Oleg86rus/paint_online)
+
 ---
 
 ### 💻 Tech Stack:

@@ -21,7 +21,7 @@
 
 
 
-### [Paint online (в работе)](https://github.com/Oleg86rus/paint_online)
+### [Paint online](https://github.com/Oleg86rus/paint_online)
 
 ---
 

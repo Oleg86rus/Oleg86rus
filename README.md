@@ -11,7 +11,7 @@
 
 ### [Список бизнес заказов, прототип](https://github.com/Oleg86rus/application_list_vue) / [Деплой (Firebase)](https://vue-application-list.web.app/auth?message=auth)
 
-### [Сайт клиники превентивной медицины (заказ дорабатывается на стороне заказчика)](https://github.com/Oleg86rus/propreventa/) / [Деплой](http://propreventa.ru/) 
+### [Сайт клиники превентивной медицины (проект заморожен)](https://github.com/Oleg86rus/propreventa/) / [Деплой](http://propreventa.ru/) 
 
 ### [Vue3 + Vuex + Composition](https://github.com/Oleg86rus/vue.js)
 ---

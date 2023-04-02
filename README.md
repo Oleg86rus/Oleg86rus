@@ -3,7 +3,14 @@
 👯 Открыт к сотрудничеству и совместным проектам
 
 ---
-### Мои проекты:
+
+### В работе:
+
+### [Блог - форум](https://github.com/Oleg86rus/blog)
+
+---
+
+### Последние проекты:
 
 ### [Прототип Excel на Pure JS](https://github.com/Oleg86rus/excel)
 
@@ -14,16 +21,11 @@
 ### [Сайт клиники превентивной медицины (проект заморожен)](https://github.com/Oleg86rus/propreventa/) / [Деплой](http://propreventa.ru/) 
 
 ### [Vue3 + Vuex + Composition](https://github.com/Oleg86rus/vue.js)
----
-### В работе:
-
-### [Блог - форум](https://github.com/Oleg86rus/blog)
-
-
 
 ### [Paint online](https://github.com/Oleg86rus/paint_online)
 
 ---
+
 
 ### 💻 Tech Stack:
 

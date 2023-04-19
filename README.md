@@ -51,13 +51,14 @@
 <img alt="express" src="https://img.shields.io/badge/express-2A2A2A.svg?&style=for-the-badge&logo=express&logoColor=04639C" />&nbsp;
 <img alt="docker" src="https://img.shields.io/badge/docker-2C96ED.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
 
+<img alt="FSD" src="https://img.shields.io/badge/fsd-4A87EA.svg?&style=for-the-badge&logo=fsd&logoColor=4A87EA" />&nbsp;
+
 
 ### 🛠 Tools:
 
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="figma" src="https://img.shields.io/badge/figma-F2F2F2.svg?&style=for-the-badge&logo=figma&logoColor=F97262" />&nbsp;
-<img alt="FSD" src="https://img.shields.io/badge/fsd-4A87EA.svg?&style=for-the-badge&logo=fsd&logoColor=4A87EA" />&nbsp;
 
 
 ---
